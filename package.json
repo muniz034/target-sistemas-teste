@@ -1,0 +1,12 @@
+{
+  "name": "target-sistemas-teste",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Arquivos resposta para o teste da Target Sistemas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Muniz",
+  "license": "ISC"
+}
